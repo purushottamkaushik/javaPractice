@@ -1,4 +1,4 @@
-package src.solidPrinciples.di;
+package design.solidPrinciples.di;
 
 public interface MouseInterface {
 

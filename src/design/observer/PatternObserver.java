@@ -1,4 +1,6 @@
 package design.observer;
 
-public class PatternObserver {
+public interface PatternObserver {
+
+    public void update();
 }

@@ -1,4 +1,6 @@
-package src.solidPrinciples.di;
+package design.solidPrinciples.di;
+
+import design.solidPrinciples.di.KeyBoardInterface;
 
 public class WirelessKeyboard implements KeyBoardInterface {
     @Override

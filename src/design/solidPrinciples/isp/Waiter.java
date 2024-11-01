@@ -1,4 +1,4 @@
-package src.solidPrinciples.isp;
+package src.design.solidPrinciples.isp;
 
 public class Waiter implements WaiterInterface{
     @Override

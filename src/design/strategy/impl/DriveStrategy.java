@@ -1,4 +1,6 @@
 package src.design.strategy.impl;
 
-public class DriveStrategy {
+public interface DriveStrategy {
+    public void drive();
+
 }

@@ -1,6 +1,8 @@
 package src.design.strategy.impl;
 
-public interface DriveStrategy {
-    public void drive();
+public class SportsDriveStrategy implements DriveStrategy{
+    public void drive(){
+        System.out.println("Sports Driving");
+    }
 
 }

@@ -1,15 +1,16 @@
 package design.observer;
 
-public class MobileNotificationObserver  implements PatternObserver{
+public class EmailNotificationObserver implements PatternObserver{
 
-    private PatternObserver observer;
-    private String mobile;
-    public MobileNotificationObserver(String mobile , PatternObserver observer) {
-        this.observer = observer;
+    private IPhoneObservable observable;
+    private String email;
+    public EmailNotificationObserver(String email , IPhoneObservable observable) {
+        this.observable = observable;
+        this.email = email;
     }
 
     @Override
     public void update() {
-        System.out.println("sending data to mobile " + mobile );
+        System.out.println("sending data to email " + email );
     }
 }

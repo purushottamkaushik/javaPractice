@@ -1,8 +1,8 @@
 package src.design.strategy.impl;
 
-public class SportsVehicle  extends Vehicle{
+public class GoodsVehicle extends Vehicle{
 
-    public SportsVehicle() {
-        super(new SportsDriveStrategy());
+    public GoodsVehicle() {
+        super(new NormalDriveStrategy());
     }
 }

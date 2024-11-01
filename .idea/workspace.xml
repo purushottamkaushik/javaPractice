@@ -4,7 +4,56 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b10ccc6c-84de-4b25-bd86-c12e60157c1d" name="Changes" comment="Initial Commit" />
+    <list default="true" id="6e1014e8-753e-4dbd-bf04-87d1f5c86943" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/design/decorator/BasePizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/design/decorator/ExtraCheese.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/design/decorator/FarmHousePizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/design/decorator/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/design/decorator/Margreta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/design/decorator/MushroomPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/design/decorator/ToppingDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/design/decorator/VegDelight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/design/observer/EmailNotificationObserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/design/observer/EmailNotificationObserver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/design/observer/IPhoneObservable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/design/observer/IPhoneObservable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/design/observer/IPhoneObserverImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/design/observer/IPhoneObserverImp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/design/observer/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/design/observer/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/design/observer/MobileNotificationObserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/design/observer/MobileNotificationObserver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/design/observer/PatternObserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/design/observer/PatternObserver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/design/solidPrinciples/di/KeyBoardInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/design/solidPrinciples/di/KeyBoardInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/design/solidPrinciples/di/MouseInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/design/solidPrinciples/di/MouseInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/design/solidPrinciples/di/Target.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/design/solidPrinciples/di/Target.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/design/solidPrinciples/di/WiredKeyboard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/design/solidPrinciples/di/WiredKeyboard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/design/solidPrinciples/di/WiredMouse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/design/solidPrinciples/di/WiredMouse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/design/solidPrinciples/di/WirelessKeyboard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/design/solidPrinciples/di/WirelessKeyboard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/design/solidPrinciples/di/WirelessMouse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/design/solidPrinciples/di/WirelessMouse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/design/solidPrinciples/isp/ChefInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/design/solidPrinciples/isp/ChefInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/design/solidPrinciples/isp/Waiter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/design/solidPrinciples/isp/Waiter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/design/solidPrinciples/isp/WaiterInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/design/solidPrinciples/isp/WaiterInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/design/solidPrinciples/lsp/BiCycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/design/solidPrinciples/lsp/BiCycle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/design/solidPrinciples/lsp/Bike.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/design/solidPrinciples/lsp/Bike.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/design/solidPrinciples/lsp/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/design/solidPrinciples/lsp/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/design/solidPrinciples/lsp/EnginedVehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/design/solidPrinciples/lsp/EnginedVehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/design/solidPrinciples/lsp/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/design/solidPrinciples/lsp/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/design/solidPrinciples/singleopc/DbSave.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/design/solidPrinciples/singleopc/DbSave.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/design/solidPrinciples/singleopc/FileSave.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/design/solidPrinciples/singleopc/FileSave.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/design/solidPrinciples/singleopc/InvoiceDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/design/solidPrinciples/singleopc/InvoiceDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/design/solidPrinciples/singleopc/Marker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/design/solidPrinciples/singleopc/Marker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/design/strategy/impl/DriveStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/design/strategy/impl/DriveStrategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/design/strategy/impl/GoodsVehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/design/strategy/impl/GoodsVehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/design/strategy/impl/HeavyDriveStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/design/strategy/impl/HeavyDriveStrategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/design/strategy/impl/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/design/strategy/impl/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/design/strategy/impl/NormalDriveStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/design/strategy/impl/NormalDriveStrategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/design/strategy/impl/OffRoadVehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/design/strategy/impl/OffRoadVehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/design/strategy/impl/OwnVehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/design/strategy/impl/OwnVehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/design/strategy/impl/PassengerVehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/design/strategy/impl/PassengerVehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/design/strategy/impl/SportsDriveStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/design/strategy/impl/SportsDriveStrategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/design/strategy/impl/SportsVehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/design/strategy/impl/SportsVehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/design/strategy/impl/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/design/strategy/impl/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/design/strategy/withoutstrategy/OffRoadVehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/design/strategy/withoutstrategy/OffRoadVehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/design/strategy/withoutstrategy/PassengerVehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/design/strategy/withoutstrategy/PassengerVehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/design/strategy/withoutstrategy/SportyVehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/design/strategy/withoutstrategy/SportyVehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/design/strategy/withoutstrategy/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/design/strategy/withoutstrategy/Vehicle.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,20 +70,11 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-17.0.9/Contents/Home/lib/src.zip!/java.base/java/lang/Number.java" root0="SKIP_INSPECTION" />
-    <setting file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-17.0.9/Contents/Home/lib/src.zip!/java.base/java/lang/annotation/ElementType.java" root0="SKIP_INSPECTION" />
-    <setting file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-17.0.9/Contents/Home/lib/src.zip!/java.base/java/lang/annotation/Target.java" root0="SKIP_INSPECTION" />
-  </component>
-  <component name="KubernetesApiPersistence">{}</component>
-  <component name="KubernetesApiProvider">{
-  &quot;isMigrated&quot;: true
-}</component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 5
-}</component>
-  <component name="ProjectId" id="2mCYJTyhn9asDzQdvaK8RBNZ7jX" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2oFFuqLr3gDjPf5pnqclqXsiuKh" />
+  <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -43,27 +83,9 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Application.ArraysPractice.executor": "Run",
-    "Application.BoundedAnimalContainer.executor": "Run",
-    "Application.BoundedGenericsTest.executor": "Run",
-    "Application.DateManipulation.executor": "Run",
-    "Application.DatePractice.executor": "Run",
-    "Application.EnumsPractice.executor": "Run",
-    "Application.FlatMapTest.executor": "Run",
-    "Application.GenericInstantiationTest.executor": "Debug",
-    "Application.GenericsMethodTest.executor": "Run",
-    "Application.GenericsTest.executor": "Run",
-    "Application.ListPractice.executor": "Run",
     "Application.Main.executor": "Run",
-    "Application.MainClass.executor": "Run",
-    "Application.SetsPractice.executor": "Run",
-    "Application.Sorting.executor": "Run",
-    "Application.StreamsCreationAndOperationsTest.executor": "Run",
-    "Application.StreamsTest.executor": "Run",
-    "Application.StringDemo.executor": "Run",
-    "Application.Sum.executor": "Run",
+    "Application.Target.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
@@ -71,27 +93,29 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "/Users/kaushik/Desktop/work/backend/javaPractice/javaPractice/src/Main.java",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "configurable.group.appearance",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
-      <recent name="arrays" />
+      <recent name="design.observer" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="generics.instantiation" />
-      <recent name="generics.extensions" />
+      <recent name="design.decorator" />
+      <recent name="design.observer" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StreamsCreationAndOperationsTest">
-    <configuration name="BoundedAnimalContainer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="generics.instantiation.BoundedAnimalContainer" />
+  <component name="RunManager" selected="Application.design.decorator.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="design.observer.Main" />
       <module name="javaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="generics.instantiation.*" />
+          <option name="PATTERN" value="design.observer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FlatMapTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="streams.FlatMapTest" />
+    <configuration name="Target" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="design.solidPrinciples.di.Target" />
       <module name="javaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="streams.*" />
+          <option name="PATTERN" value="design.solidPrinciples.di.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,38 +136,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamsCreationAndOperationsTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="streams.StreamsCreationAndOperationsTest" />
+    <configuration name="design.decorator.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="design.decorator.Main" />
       <module name="javaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="streams.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StreamsTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="streams.StreamsTest" />
-      <module name="javaPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="streams.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="defaultmethods.Sum" />
-      <module name="javaPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="defaultmethods.*" />
+          <option name="PATTERN" value="design.decorator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -153,85 +151,46 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StreamsCreationAndOperationsTest" />
-        <item itemvalue="Application.FlatMapTest" />
-        <item itemvalue="Application.StreamsTest" />
-        <item itemvalue="Application.Sum" />
-        <item itemvalue="Application.BoundedAnimalContainer" />
+        <item itemvalue="Application.design.decorator.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Target" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
-        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23726.103" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23726.103" />
       </set>
     </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b10ccc6c-84de-4b25-bd86-c12e60157c1d" name="Changes" comment="" />
-      <created>1726581953580</created>
+      <changelist id="6e1014e8-753e-4dbd-bf04-87d1f5c86943" name="Changes" comment="" />
+      <created>1730457641176</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1726581953580</updated>
-      <workItem from="1726581957207" duration="5691000" />
-      <workItem from="1726627310974" duration="4021000" />
-      <workItem from="1726639972531" duration="2110000" />
-      <workItem from="1726662152293" duration="1892000" />
-      <workItem from="1726968441139" duration="599000" />
-      <workItem from="1726972228934" duration="599000" />
-      <workItem from="1727063661366" duration="1946000" />
-      <workItem from="1727331832174" duration="599000" />
-      <workItem from="1727459492281" duration="1265000" />
-      <workItem from="1727782921828" duration="4069000" />
-      <workItem from="1727846547483" duration="1410000" />
-      <workItem from="1727872640777" duration="1028000" />
-      <workItem from="1727952688389" duration="11027000" />
-      <workItem from="1728043492072" duration="10147000" />
+      <updated>1730457641176</updated>
+      <workItem from="1730457643324" duration="3997000" />
     </task>
-    <task id="LOCAL-00001" summary="Initial Commit">
-      <option name="closed" value="true" />
-      <created>1727873554884</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1727873554884</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Initial Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
-  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>11</line>
+          <url>file://$PROJECT_DIR$/src/design/observer/Main.java</url>
+          <line>5</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/generics/instantiation/GenericInstantiationTest.java</url>
-          <line>17</line>
+          <url>file://$PROJECT_DIR$/src/design/observer/EmailNotificationObserver.java</url>
+          <line>7</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>

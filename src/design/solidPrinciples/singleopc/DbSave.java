@@ -1,4 +1,4 @@
-package src.solidPrinciples.singleopc;
+package src.design.solidPrinciples.singleopc;
 
 public class DbSave implements InvoiceDao{
     @Override

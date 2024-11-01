@@ -1,4 +1,6 @@
-package src.solidPrinciples.di;
+package design.solidPrinciples.di;
+
+
 
 public class Target {
 

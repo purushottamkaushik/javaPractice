@@ -1,4 +1,4 @@
-package src.solidPrinciples.lsp;
+package src.design.solidPrinciples.lsp;
 
 public interface Vehicle {
 

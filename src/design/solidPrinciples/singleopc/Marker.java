@@ -1,4 +1,4 @@
-package src.solidPrinciples.singleopc;
+package src.design.solidPrinciples.singleopc;
 public class Marker {
     private String color;
     private String company;

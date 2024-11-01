@@ -1,10 +1,10 @@
 package src.design.strategy.withoutstrategy;
 
 
-
-public class PassengerVehicle extends Vehicle {
+public class OffRoadVehicle extends Vehicle {
 
     public void drive(){
-        System.out.println("Normal Driving");
+        // code is duplicate as in sporty vehicle
+        System.out.println("Sports like driving");
     }
 }
